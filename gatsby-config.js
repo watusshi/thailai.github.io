@@ -1,21 +1,21 @@
 module.exports = {
   siteMetadata: {
     // Site URL for when it goes live
-    siteUrl: `https://elastic-meninsky-aa7c74.netlify.app/`,
+    siteUrl: `https://thailaidevport.netlify.app/`,
     // Your Name
     name: 'Thai Lai',
     // Main Site Title
     title: `Thai Lai | Full-Time Software Engineer Student`,
     // Description that goes under your name in main bio
-    description: `Lorem ipsum dolor sit amet consectetur adipisicing elit, ipsum.`,
+    description: `Full-Time Software Engineer Student at The University of Texas at Arlington`,
     // Optional: Twitter account handle
     author: `@rfitzio`,
     // Optional: Github account URL
-    github: `https://github.com/ryanfitzgerald`,
+    github: `https://github.com/watusshi`,
     // Optional: LinkedIn account URL
-    linkedin: `https://www.linkedin.com/in/ryanafitzgerald/`,
+    linkedin: `https://www.linkedin.com/in/thai-lai/`,
     // Content of the About Me section
-    about: `Lorem ipsum dolor sit amet consectetur adipisicing elit. Ducimus perferendis porro cumque ea error ab voluptatem. Temporibus adipisci exercitationem similique itaque quibusdam laudantium, qui molestiae quas, aut amet animi id.`,
+    about: `Hi! My name is Thai Lai. I'm a Software Engineering student at the University of Texas at Arlington, due to graduate May 2022. I've loved computers and coding from an early age, and I'm excited to pursue it as a field both academically and professionally.`,
     // Optional: List your projects, they must have `name` and `description`. `link` is optional.
     projects: [
       {
