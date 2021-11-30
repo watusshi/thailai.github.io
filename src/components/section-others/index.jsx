@@ -8,9 +8,9 @@ const SectionOthers = ({ others }) => {
     <Section title="Others">
       {others.map((others) => (
         <SummaryItem
-          key={item.name}
-          name={item.name}
-          description={item.description}
+          key={other.name}
+          name={other.name}
+          description={other.description}
         />
       ))}
     </Section>
