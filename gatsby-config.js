@@ -9,7 +9,7 @@ module.exports = {
     // Description that goes under your name in main bio
     description: `Full-Time Software Engineer Student at The University of Texas at Arlington`,
     // Optional: Twitter account handle
-    author: `https://stackoverflow.com/users/14517192/watusshi`,
+    stackoverflow: `https://stackoverflow.com/users/14517192/watusshi`,
     // Optional: Github account URL
     github: `https://github.com/watusshi`,
     // Optional: LinkedIn account URL
