@@ -6,7 +6,7 @@ import SummaryItem from '../summary-item';
 const SectionOthers = ({ others }) => {
   return (
     <Section title="Others">
-      {skills.map((others) => (
+      {others.map((others) => (
         <SummaryItem
           key={item.name}
           name={item.name}
