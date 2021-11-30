@@ -79,7 +79,7 @@ module.exports = {
         description:
           'English, Vietnamese',
       },
-    ]
+    ],
   },
   plugins: [
     /**`gatsby-plugin-react-helmet`,
