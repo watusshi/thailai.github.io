@@ -9,7 +9,7 @@ module.exports = {
     // Description that goes under your name in main bio
     description: `Full-Time Software Engineer Student at The University of Texas at Arlington`,
     // Optional: Twitter account handle
-    author: `@rfitzio`,
+    author: `https://stackoverflow.com/users/14517192/watusshi`,
     // Optional: Github account URL
     github: `https://github.com/watusshi`,
     // Optional: LinkedIn account URL
@@ -125,8 +125,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `devfolio`,
-        short_name: `devfolio`,
+        name: `thailaidevport`,
+        short_name: `thailaidevport`,
         start_url: `/`,
         background_color: `#663399`,
         theme_color: `#663399`, // This color appears on mobile
