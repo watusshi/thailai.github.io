@@ -8,7 +8,7 @@ module.exports = {
     title: `Thai Lai | Full-Time Software Engineer Student`,
     // Description that goes under your name in main bio
     description: `Full-Time Software Engineer Student at The University of Texas at Arlington`, 
-    location: `Located in Dallas/Fort-Worth Metroplex`,
+    //location: `Located in Dallas/Fort-Worth Metroplex`,
     // Optional: Twitter account handle
     author: `https://stackoverflow.com/users/14517192/watusshi`,
     // Optional: Github account URL
