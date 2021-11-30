@@ -64,7 +64,10 @@ export const pageQuery = graphql`
           name
           description
         }
-        others
+        others {
+          name
+          description
+        }
       }
     }
     allMarkdownRemark(
