@@ -41,7 +41,7 @@ module.exports = {
     experience: [
       {
         name: 'Cyber Security at UTA',
-        description: 'Active member, September 2020 - Present',
+        description: 'Active member, September 2021 - Present',
         link: 'https://mavorgs.campuslabs.com/engage/organization/csec',
       },
       {
