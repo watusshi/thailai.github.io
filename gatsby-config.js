@@ -74,7 +74,7 @@ module.exports = {
     ],
   },
   plugins: [
-    `gatsby-plugin-react-helmet`,
+    /**`gatsby-plugin-react-helmet`,
     {
       resolve: `gatsby-source-filesystem`,
       options: {
@@ -88,7 +88,7 @@ module.exports = {
         path: `${__dirname}/content/blog`,
         name: `blog`,
       },
-    },
+    },**/
     {
       resolve: `gatsby-transformer-remark`,
       options: {
