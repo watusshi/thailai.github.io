@@ -60,7 +60,7 @@ module.exports = {
       {
         name: 'Languages & Frameworks',
         description:
-          'JavaScript (ES6+), Golang, Node.js, Express.js, React, Ruby on Rails, PHP',
+          'JavaScript (ES6+), Flutter, HTML, C, C++, C#, Java, Python (Numpy, Pandas), SwiftUI',
       },
       {
         name: 'Databases',
@@ -69,7 +69,7 @@ module.exports = {
       {
         name: 'Other',
         description:
-          'Docker, Amazon Web Services (AWS), CI / CD, Microservices, API design, Agile / Scrum',
+          'Docker, Amazon Web Services (AWS), Linux/Unix, MacOS, Microsoft Offices, Microcontrollers, , Agile / Scrum',
       },
     ],
   },
