@@ -19,9 +19,9 @@ module.exports = {
     // Optional: List your projects, they must have `name` and `description`. `link` is optional.
     projects: [
       {
-        name: 'Devfolio',
+        name: 'Java and Donut Express (JADE)',
         description:
-          'A zero-config and blazing fast personal site + blog built with GatsbyJs and TailwindCSS',
+          'An application which allows business to run more effectively (easier communicate between customers and sellers)',
         link: 'https://github.com/RyanFitzgerald/devfolio',
       },
       {
