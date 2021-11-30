@@ -1,13 +1,18 @@
 import React from 'react';
 
 import Section from '../section';
+import SummaryItem from '../summary-item';
 
 const SectionOthers = ({ others }) => {
   return (
     <Section title="Others">
-      <div className="mb-9">
-        <p>{others}</p>
-      </div>
+      {skills.map((others) => (
+        <SummaryItem
+          key={skill.name}
+          name={skill.name}
+          description={skill.description}
+        />
+      ))}
     </Section>
   );
 };

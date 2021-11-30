@@ -73,7 +73,13 @@ module.exports = {
       },
     ],
     //others section to add self interest and stuff
-    others: `I speak Vietnamese and English fluently`,
+    others: [
+      {
+        name: 'Human Languages',
+        description:
+          'English, Vietnamese',
+      },
+    ]
   },
   plugins: [
     /**`gatsby-plugin-react-helmet`,
