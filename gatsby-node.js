@@ -78,6 +78,7 @@ exports.createSchemaCustomization = ({ actions }) => {
       projects: [SectionItem]
       experience: [SectionItem]
       skills: [SectionItem]
+      others: [SectionItem]
     }
 
     type SectionItem {
