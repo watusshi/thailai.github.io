@@ -15,7 +15,7 @@ module.exports = {
     // Optional: LinkedIn account URL
     linkedin: `https://www.linkedin.com/in/thai-lai/`,
     // Content of the About Me section
-    about: `Hi! My name is Thai Lai. I'm a Software Engineering student at the University of Texas at Arlington, due to graduate May 2022. I've loved computers and coding from an early age, and I'm excited to pursue it as a field both academically and professionally.`,
+    about: `Greetings! My name is Thai Lai. I'm a Software Engineering student at the University of Texas at Arlington, due to graduate May 2022. I've loved computers and coding from an early age, and I'm excited to pursue it as a field both academically and professionally.`,
     // Optional: List your projects, they must have `name` and `description`. `link` is optional.
     projects: [
       {
@@ -72,6 +72,8 @@ module.exports = {
           'Docker, Amazon Web Services (AWS), Linux/Unix, MacOS, Microsoft Offices, Microcontrollers, , Agile / Scrum',
       },
     ],
+    //others section to add self interest and stuff
+    others: `I speak Vietnames and English fluently`,
   },
   plugins: [
     /**`gatsby-plugin-react-helmet`,
