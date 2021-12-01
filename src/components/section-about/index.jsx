@@ -4,10 +4,14 @@ import Section from '../section';
 
 const SectionAbout = ({ about }) => {
   return (
-    <Section title="About Me">
-      <div className="mb-6">
-        <p>{about}</p>
-      </div>
+     <Section title="About me">
+      {others.map((about) => (
+        <SummaryItem
+          key={about.name}
+          name={about.name}
+          description={about.description}
+        />
+      ))}
     </Section>
   );
 };
