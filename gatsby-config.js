@@ -23,12 +23,12 @@ module.exports = {
       {
         name: 'Introduction',
         description:
-          "Greetings! My name is Thai Lai. I'm a Software Engineering student at the University of Texas at Arlington, due to graduate May 2022. I've loved computers and coding from an early age, and I'm excited to pursue it as a field both academically and professionally.",
+          'Greetings! My name is Thai Lai. Im a Software Engineering student at the University of Texas at Arlington, due to graduate May 2022. Ive loved computers and coding from an early age, and Im excited to pursue it as a field both academically and professionally.',
       },
       {
         name: 'Contact Information',
         description:
-          `Phone number: 682-500-9814 Email address: khanhthailai@gmail.com`,
+          'Phone number: 682-500-9814 Email address: khanhthailai@gmail.com',
       },
     ],
     // Optional: List your projects, they must have `name` and `description`. `link` is optional.
