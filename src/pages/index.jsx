@@ -10,6 +10,7 @@ import SectionExperience from '../components/section-experience';
 import SectionProjects from '../components/section-projects';
 import SectionSkills from '../components/section-skills';
 import SectionOthers from '../components/section-others';
+import SectionTest from '../components/section-test';
 import SEO from '../components/seo';
 
 const Index = ({ data }) => {
@@ -51,6 +52,10 @@ export const pageQuery = graphql`
         github
         linkedin
         resume
+        test {
+          name
+          description
+        }
         projects {
           name
           description
