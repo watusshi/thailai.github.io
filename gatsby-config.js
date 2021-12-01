@@ -15,6 +15,8 @@ module.exports = {
     github: `https://github.com/watusshi`,
     // Optional: LinkedIn account URL
     linkedin: `https://www.linkedin.com/in/thai-lai/`,
+    //Resume section
+    resume: `https://stackoverflow.com/users/14517192/watusshi`,
     // Content of the About Me section
     about: `Greetings! My name is Thai Lai. I'm a Software Engineering student at the University of Texas at Arlington, due to graduate May 2022. I've loved computers and coding from an early age, and I'm excited to pursue it as a field both academically and professionally.`,
     // Optional: List your projects, they must have `name` and `description`. `link` is optional.
