@@ -47,7 +47,10 @@ export const pageQuery = graphql`
         name
         title
         description
-        about 
+        about {
+          name
+          description
+        }
         author
         github
         linkedin
@@ -67,10 +70,6 @@ export const pageQuery = graphql`
           description
         }
         others {
-          name
-          description
-        }
-        about {
           name
           description
         }
