@@ -28,8 +28,7 @@ module.exports = {
       {
         name: 'Contact Information',
         description:
-          `Phone number: 682-500-9814
-           Email address: khanhthailai@gmail.com`,
+          `Phone number: 682-500-9814 Email address: khanhthailai@gmail.com`,
       },
     ],
     // Optional: List your projects, they must have `name` and `description`. `link` is optional.
