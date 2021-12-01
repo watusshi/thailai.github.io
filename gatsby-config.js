@@ -23,7 +23,7 @@ module.exports = {
       {
         name: 'Introduction',
         description:
-          `Greetings! My name is Thai Lai. I'm a Software Engineering student at the University of Texas at Arlington, due to graduate May 2022. I've loved computers and coding from an early age, and I'm excited to pursue it as a field both academically and professionally.`,
+          "Greetings! My name is Thai Lai. I'm a Software Engineering student at the University of Texas at Arlington, due to graduate May 2022. I've loved computers and coding from an early age, and I'm excited to pursue it as a field both academically and professionally.",
       },
       {
         name: 'Contact Information',

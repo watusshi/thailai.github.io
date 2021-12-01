@@ -5,11 +5,11 @@ import Section from '../section';
 const SectionAbout = ({ about }) => {
   return (
      <Section title="About me">
-      {about.map((about) => (
+      {about.map((stuff) => (
         <SummaryItem
-          key={about.name}
-          name={about.name}
-          description={about.description}
+          key={stuff.name}
+          name={stuff.name}
+          description={stuff.description}
         />
       ))}
     </Section>
