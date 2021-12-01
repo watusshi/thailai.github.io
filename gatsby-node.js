@@ -75,7 +75,7 @@ exports.createSchemaCustomization = ({ actions }) => {
       github: String
       linkedin: String
       resume: String
-      about: [SectionItem]
+      about: String
       projects: [SectionItem]
       experience: [SectionItem]
       skills: [SectionItem]
