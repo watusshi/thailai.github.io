@@ -18,8 +18,8 @@ module.exports = {
     //Resume section
     resume: `https://www.overleaf.com/download/project/61a538e442d9d70104894146/build/17d73cb08cc-949d883e2535eda0/output/output.pdf?compileGroup=standard&clsiserverid=clsi-pre-emp-e2-e-412z&popupDownload=true`,
     // Content of the About Me section
-    //about: `Greetings! My name is Thai Lai. I'm a Software Engineering student at the University of Texas at Arlington, due to graduate May 2022. I've loved computers and coding from an early age, and I'm excited to pursue it as a field both academically and professionally.`,
-    about: [
+    about: `Greetings! My name is Thai Lai. I'm a Software Engineering student at the University of Texas at Arlington, due to graduate May 2022. I've loved computers and coding from an early age, and I'm excited to pursue it as a field both academically and professionally.`,
+    test: [
       {
         name: 'Introduction',
         description:
