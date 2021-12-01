@@ -19,13 +19,13 @@ module.exports = {
     resume: `https://www.overleaf.com/download/project/61a538e442d9d70104894146/build/17d73cb08cc-949d883e2535eda0/output/output.pdf?compileGroup=standard&clsiserverid=clsi-pre-emp-e2-e-412z&popupDownload=true`,
     // Content of the About Me section
     about: `Greetings! My name is Thai Lai. I'm a Software Engineering student at the University of Texas at Arlington, due to graduate May 2022. I've loved computers and coding from an early age, and I'm excited to pursue it as a field both academically and professionally.`,
-    test: [
+    /**test: [
       {
         name: 'Introduction',
         description:
           'Greetings! My name is Thai Lai. Im a Software Engineering student at the University of Texas at Arlington, due to graduate May 2022. Ive loved computers and coding from an early age, and Im excited to pursue it as a field both academically and professionally.',
       },
-    ],
+    ],**/
     // Optional: List your projects, they must have `name` and `description`. `link` is optional.
     projects: [
       {
