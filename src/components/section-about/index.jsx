@@ -5,7 +5,7 @@ import Section from '../section';
 const SectionAbout = ({ about }) => {
   return (
      <Section title="About me">
-      {others.map((about) => (
+      {about.map((about) => (
         <SummaryItem
           key={about.name}
           name={about.name}
