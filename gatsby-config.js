@@ -63,7 +63,7 @@ module.exports = {
       {
         name: 'Languages & Frameworks',
         description:
-          'JavaScript (ES6+), Flutter, HTML, C, C++, C#, Java, Python (Numpy, Pandas), SwiftUI',
+          'JavaScript (ES6+), Flutter, HTML, C, C++, C#, Java, Python (Numpy, Pandas), SwiftUI, GatsbyJS',
       },
       {
         name: 'Databases',
