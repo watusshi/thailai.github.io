@@ -47,15 +47,14 @@ export const pageQuery = graphql`
         name
         title
         description
-        about
+        about {
+          name
+          description
+        }
         author
         github
         linkedin
         resume
-        test {
-          name
-          description
-        }
         projects {
           name
           description
