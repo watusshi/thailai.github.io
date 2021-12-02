@@ -73,11 +73,6 @@ module.exports = {
           'JavaScript (ES6+), Flutter, HTML, C, C++, C#, Java, Python (Numpy, Pandas), SwiftUI, GatsbyJS',
       },
       {
-        name: 'Human Languages',
-        description:
-          'English, Vietnamese, Chinese (Mandarin)',
-      },
-      {
         name: 'Databases',
         description: 'MongoDB, PostreSQL, MySQL',
       },
