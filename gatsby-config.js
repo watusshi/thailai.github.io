@@ -68,9 +68,14 @@ module.exports = {
     // Optional: List your skills, they must have `name` and `description`.
     skills: [
       {
-        name: 'Languages & Frameworks',
+        name: 'Programming Languages & Frameworks',
         description:
           'JavaScript (ES6+), Flutter, HTML, C, C++, C#, Java, Python (Numpy, Pandas), SwiftUI, GatsbyJS',
+      },
+      {
+        name: 'Human Languages',
+        description:
+          'English, Vietnamese, Chinese (Mandarin)',
       },
       {
         name: 'Databases',
