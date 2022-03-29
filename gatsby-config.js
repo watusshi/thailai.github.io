@@ -15,8 +15,17 @@ module.exports = {
     github: `https://github.com/watusshi`,
     // Optional: LinkedIn account URL
     linkedin: `https://www.linkedin.com/in/thai-lai/`,
+    //Resume section
+    resume: `https://www.overleaf.com/download/project/61a538e442d9d70104894146/build/17d73cb08cc-949d883e2535eda0/output/output.pdf?compileGroup=standard&clsiserverid=clsi-pre-emp-e2-e-412z&popupDownload=true`,
     // Content of the About Me section
     about: `Greetings! My name is Thai Lai. I'm a Software Engineering student at the University of Texas at Arlington, due to graduate May 2022. I've loved computers and coding from an early age, and I'm excited to pursue it as a field both academically and professionally.`,
+    /**test: [
+      {
+        name: 'Introduction',
+        description:
+          'Greetings! My name is Thai Lai. Im a Software Engineering student at the University of Texas at Arlington, due to graduate May 2022. Ive loved computers and coding from an early age, and Im excited to pursue it as a field both academically and professionally.',
+      },
+    ],**/
     // Optional: List your projects, they must have `name` and `description`. `link` is optional.
     projects: [
       {
@@ -59,9 +68,9 @@ module.exports = {
     // Optional: List your skills, they must have `name` and `description`.
     skills: [
       {
-        name: 'Languages & Frameworks',
+        name: 'Programming Languages & Frameworks',
         description:
-          'JavaScript (ES6+), Flutter, HTML, C, C++, C#, Java, Python (Numpy, Pandas), SwiftUI',
+          'JavaScript (ES6+), Flutter, HTML, C, C++, C#, Java, Python (Numpy, Pandas), SwiftUI, GatsbyJS',
       },
       {
         name: 'Databases',
