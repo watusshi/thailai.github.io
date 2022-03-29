@@ -31,7 +31,7 @@ module.exports = {
           'Kit to jump-start your Chrome extension projects with a variety of battle-tested starter templates',
         link: 'https://chromeextensionkit.com/?ref=devfolio',
       },
-      /**{
+      /**{ 
         name: 'Another Cool Project',
         description:
           'Lorem ipsum dolor sit amet consectetur adipisicing elit ducimus perferendis',

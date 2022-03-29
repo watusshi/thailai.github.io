@@ -21,7 +21,7 @@ const classes = {
 const Header = ({ metadata = {}, noBlog = false }) => {
   const stackoverflow = get(metadata, 'author', false);
   const github = get(metadata, 'github', false);
-  const linkedin = get(metadata, 'linkedin', false);
+  //const linkedin = get(metadata, 'linkedin', false);
 
   return (
     <div className={classes.wrapper}>
