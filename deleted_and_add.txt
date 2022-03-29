@@ -1,0 +1,7 @@
+{linkedin && (
+            <li className={classes.item}>
+              <a className={classes.link} href={linkedin}>
+                LinkedIn
+              </a>
+            </li>
+          )}
