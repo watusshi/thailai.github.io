@@ -32,7 +32,7 @@ module.exports = {
         name: 'Java and Donut Express (JADE)',
         description:
           'An application which allows business to run more effectively (easier communicate between customers and sellers)',
-        link: ,
+        link: '',
       },
       {
         name: 'ChromeExtensionKit',
