@@ -32,7 +32,7 @@ module.exports = {
         name: 'Java and Donut Express (JADE)',
         description:
           'An application which allows business to run more effectively (easier communicate between customers and sellers)',
-        link: /**'https://github.com/RyanFitzgerald/devfolio'**/,
+        link: ,
       },
       {
         name: 'ChromeExtensionKit',
@@ -59,6 +59,11 @@ module.exports = {
         description: 'Active developer, September 2021 - Present',
         link: 'https://utamobi.com/#about',
       },
+      {
+        name: 'Microsoft Software Engineer Intern',
+        description: 'Software Engineer Internship, April 2022 - Present',
+        link: 'https://careers.microsoft.com/us/en/search-results?keywords=software%20engineer%20internship',
+      }
       /**{
         name: 'Hooli',
         description: 'Full-Stack Developer, May 2015 - December 2017',
