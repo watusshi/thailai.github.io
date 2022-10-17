@@ -37,8 +37,8 @@ module.exports = {
       {
         name: 'ChromeExtensionKit',
         description:
-          'Kit to jump-start your Chrome extension projects with a variety of battle-tested starter templates',
-        link: 'https://chromeextensionkit.com/?ref=devfolio',
+          'A small tool to help developers easier develop extensions for chromium based browser ',
+        link: 'https://chrome.google.com/webstore/category/extensions',
       },
       /**{ 
         name: 'Another Cool Project',
@@ -92,7 +92,7 @@ module.exports = {
       {
         name: 'Human Languages',
         description:
-          'English, Vietnamese',
+          'English, Vietnamese, and a little bit of Chinese',
       },
     ],
   },
