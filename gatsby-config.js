@@ -35,10 +35,10 @@ module.exports = {
         link: '',
       },
       {
-        name: 'ChromeExtensionKit',
+        name: 'RoundedTB',
         description:
-          'A small tool to help developers easier develop extensions for chromium based browser ',
-        link: 'https://chrome.google.com/webstore/category/extensions',
+          'A customization tool for windows devices (add margins, segments, and rounded corners to your taskbar',
+        link: 'https://github.com/torchgm/RoundedTB',
       },
       /**{ 
         name: 'Another Cool Project',
