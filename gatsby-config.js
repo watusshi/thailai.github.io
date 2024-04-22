@@ -18,7 +18,7 @@ module.exports = {
     //Resume section
     resume: `https://cdn.discordapp.com/attachments/991834196349816957/1002282141016666232/Thai_Lai_Resume.pdf`,
     // Content of the About Me section
-    about: `Greetings! My name is Thai Lai. I'm a Software Engineering student at the University of Texas at Arlington, due to graduate May 2022. I've loved computers and coding from an early age, and I'm excited to pursue it as a field both academically and professionally.`,
+    about: `Greetings! My name is Thai Lai, an Information Technology student at the University of Texas at Arlington, due to graduate May 2025. My primary interest lies within technologies and coding. I am enthusiastic about advancing my pursuits in this field, both academically and professionally. I have proven the ability to leverage full-stack Software Engineer as well as experienced in design and building any graphics software from ground up.`,
     /**test: [
       {
         name: 'Introduction',
@@ -60,9 +60,9 @@ module.exports = {
         link: 'https://utamobi.com/#about',
       },
       {
-        name: 'Microsoft Software Engineer Intern',
-        description: 'Software Engineer Internship, April 2022 - Present',
-        link: 'https://careers.microsoft.com/us/en/search-results?keywords=software%20engineer%20internship',
+        name: 'Dallas Fort-Worth International Airport',
+        description: 'Customer Service Ambassador, May 2018 - April 2019',
+        link: 'https://www.dfwairport.com/explore/plan/assist/ambassadors/',
       }
       /**{
         name: 'Hooli',
